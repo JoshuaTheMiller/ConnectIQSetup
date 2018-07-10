@@ -19,7 +19,7 @@
 * D2 Bravo
 * D2 Bravo Titanium
 * fēnix 3 / tactix Bravo / quatix 3
-* fēnix 3 Plus
+* fēnix 3 HR
 * fēnix 5S
 * fēnix Chronos
 
