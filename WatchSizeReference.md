@@ -22,3 +22,14 @@ https://developer.garmin.com/connect-iq/user-experience-guide/appendices/
 |Rino® 7xx|240 x 400|36 x 36|65536|none|rectangle|Yes|
 |vívoactive®|205 x 148|61 x 43|64|enter, back, menu|rectangle|Yes|
 |vívoactive HR®|148 x 205|40 x 33|64|enter, back, menu|tall|Yes|
+
+# Devices missing from official documenation
+|Device|Resolution (px)|Icon Resolution|Colors|Available Button Functions|Screen Type|Touch Screen|
+|---|---|---|---|---|---|---|
+| D2 Charlie | 240x240 | ? | A lot | ? | round | ? |
+| Descent Mk1 | 240x240 | ? | A lot | ? | round | ? |
+| fēnix® 5 Plus | 240x240 | ? | A lot | ? | round | ? |
+| fēnix® 5x Plus | 240x240 | ? | A lot | ? | round | ? |
+| fēnix® 5s Plus | 240x240 | ? | A lot | ? | round | ? |
+| Forerunner® 645 | 240x240 | ? | A lot | ? | round | ? |
+| Forerunner® 645 Music | 240x240 | ? | A lot | ? | round | ? |
